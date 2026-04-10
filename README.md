@@ -1,4 +1,4 @@
-# scRNA_seq
+# Single-cell RNA sequencing datasets
 Projects and reanalyses of single-cell RNA sequencing datasets
 
 1. Notebook **PBMC_3k_scRNA_seq**: contains reanalysis of the publicly available Peripheral Blood Mononuclear Cells dataset. These are immune cells from human blood (e.g., T cells, B cells, NK cells, monocytes). Includes scRNA-seq workflows and testing pipelines (QC → normalization → clustering → annotation). Analysis was aimed at practicing cell type identification, dimensionality reduction (PCA, UMAP) and marker gene discovery.
